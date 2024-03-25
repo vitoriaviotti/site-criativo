@@ -58,3 +58,7 @@ p{
     height: 300px;
     border-radius: 82px;
 }
+
+body{
+    font-family: 'poppins',sans-serif;
+}
