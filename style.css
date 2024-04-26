@@ -66,3 +66,61 @@ body{
 .estudante-imagem{
     width: 120px;
 }
+
+.estudante{
+    background-color: #ff1493;
+    color: black;
+}
+
+.escola-titulo {
+    padding: 24px 0;
+    margin: 0 120px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.estudante-todos {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    padding: 0 60px;
+
+}
+
+.estudante-div{
+    text-align: center;
+    padding: 12px 0;
+}
+
+.estudante-imagem{
+    width: 120px;
+}
+
+.estudante-nome{
+    font-size: 14px;
+}
+
+.estudante-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+
+
+.rodape{
+    background-image: linear-gradient(#ff1493, hsla(328, 100%, 54%, 0.39));
+}
+
+.copyright{
+text-align: center;
+height: 100%;
+line-height: 100px;
+font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
