@@ -1,3 +1,7 @@
+
+body{
+    font-family: 'poppins',sans-serif;
+}
 .cabecalho {
     background-color: #ff1493;
     color: aliceblue;
@@ -59,9 +63,6 @@ p{
     border-radius: 82px;
 }
 
-body{
-    font-family: 'poppins',sans-serif;
-}
 
 .estudante-imagem{
     width: 120px;
