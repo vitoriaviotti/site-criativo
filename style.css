@@ -84,7 +84,7 @@ a:active{
 .estudante-todos {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
-    padding: 0 60px;
+    padding: 0 40px;
 
 }
 
